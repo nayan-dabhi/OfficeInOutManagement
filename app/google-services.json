@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "160234101337",
+    "firebase_url": "https://officeinout-management.firebaseio.com",
+    "project_id": "officeinout-management",
+    "storage_bucket": "officeinout-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160234101337:android:79c72d0534ef5f3b",
+        "android_client_info": {
+          "package_name": "com.nd.officeinoutmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160234101337-b5cf2gc0coccjffbkadh4huo52qi4lcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA02FvPp93lkn0I_41UaROzJ_rjj1sfNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
